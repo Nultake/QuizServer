@@ -1,3 +1,0 @@
-teacher-123-true
-student-123-false
-nultake-123-true
