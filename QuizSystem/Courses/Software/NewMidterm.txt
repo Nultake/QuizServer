@@ -1,0 +1,3 @@
+0
+What is the capital city for Turkey?,Ankara,Istanbul,Izmir,Bursa
+What is founder of Tesla ? ,Elon Musk,Nicola Tesla,Mark zuckerberg,asd
